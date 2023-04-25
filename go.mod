@@ -1,4 +1,4 @@
-module github.com/tandy1229/kyper/v2
+module gopkg.in/tandy1229/cothority.v2
 
 require (
 	github.com/stretchr/testify v1.3.0
